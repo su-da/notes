@@ -1,8 +1,8 @@
 body
 {
-    font-family: "Minion Pro",Georgia,FZNewShuSong-Z10,SimSun,TW-Sung,serif;
+    font-family: "Minion Pro",Georgia,FZNewShuSong-Z10,SimSun,"AR PL UMing CN",TW-Sung,serif;
 }
 .page .section code,.page .section pre
 {
-    font-family: Consolas,"Liberation Mono",Menlo,Courier,FZNewShuSong-Z10,SimSun,TW-Sung,monospace;
+    font-family: Consolas,"Liberation Mono",Menlo,Courier,FZNewShuSong-Z10,SimSun,"AR PL UMing CN",TW-Sung,monospace;
 }
