@@ -1,0 +1,10 @@
+{
+    "title": "笔记/教程模板",
+    "description": "这是笔记/教程的初始模板，可以从 fork 这个工程开始。内容可以自己创建、修改或删除。",
+    "author": "苏州大学",
+    "language": "zh-hans",
+    "pdf": {
+        "fontSize": 16,
+        "fontFamily": "serif"
+    }
+}
