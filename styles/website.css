@@ -1,0 +1,9 @@
+.book-summary {
+    font-family: "Helvetica Neue", Helvetica, Arial, "Noto Sans CJK SC", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Droid Sans Fallback", sans-serif;
+}
+.markdown-section code, .markdown-section pre {
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, "Noto Sans Mono CJK SC", "WenQuanYi Zen Hei Mono", "AR PL UMing CN", monospace;
+}
+.book.font-family-1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, "Noto Sans CJK SC", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Droid Sans Fallback", sans-serif;
+}
